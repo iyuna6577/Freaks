@@ -4898,7 +4898,7 @@ Transform:
   m_GameObject: {fileID: 7149466313271097406}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.38}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.6084, y: 2.6084, z: 2.6084}
   m_Children: []
   m_Father: {fileID: 7149466313877389104}
   m_RootOrder: 1
@@ -5471,7 +5471,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     randomizeRotationDirection: 0
-    maxNumParticles: 1
+    maxNumParticles: 10
     size3D: 1
     rotation3D: 0
     gravityModifier:
@@ -5789,7 +5789,7 @@ ParticleSystem:
     rateOverDistance:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 20
+      scalar: 1
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -9172,7 +9172,7 @@ ParticleSystem:
     vector0_0:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 121.9
+      scalar: 12.4
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -9754,7 +9754,7 @@ GameObject:
   - component: {fileID: 7149466313877389106}
   - component: {fileID: 7149466313877389105}
   m_Layer: 0
-  m_Name: 'FX_Waron_E_Audacious Charge '
+  m_Name: FX_Waron_E_Audacious Charge
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15151,7 +15151,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     randomizeRotationDirection: 0
-    maxNumParticles: 1
+    maxNumParticles: 1000
     size3D: 0
     rotation3D: 0
     gravityModifier:
@@ -15469,7 +15469,7 @@ ParticleSystem:
     rateOverDistance:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 10
+      scalar: 0.5
       minScalar: 0
       maxCurve:
         serializedVersion: 2
